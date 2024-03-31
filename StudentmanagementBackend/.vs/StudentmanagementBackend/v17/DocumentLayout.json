@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\student_management_project\\StudentmanagementBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60F2FF74-B3E8-4BF3-AC06-5C4BAB36D6F6}|StudentmanagementBackend\\StudentmanagementBackend.csproj|g:\\student_management_project\\studentmanagementbackend\\studentmanagementbackend\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F2FF74-B3E8-4BF3-AC06-5C4BAB36D6F6}|StudentmanagementBackend\\StudentmanagementBackend.csproj|solutionrelative:studentmanagementbackend\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F2FF74-B3E8-4BF3-AC06-5C4BAB36D6F6}|StudentmanagementBackend\\StudentmanagementBackend.csproj|g:\\student_management_project\\studentmanagementbackend\\studentmanagementbackend\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F2FF74-B3E8-4BF3-AC06-5C4BAB36D6F6}|StudentmanagementBackend\\StudentmanagementBackend.csproj|solutionrelative:studentmanagementbackend\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F2FF74-B3E8-4BF3-AC06-5C4BAB36D6F6}|StudentmanagementBackend\\StudentmanagementBackend.csproj|g:\\student_management_project\\studentmanagementbackend\\studentmanagementbackend\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F2FF74-B3E8-4BF3-AC06-5C4BAB36D6F6}|StudentmanagementBackend\\StudentmanagementBackend.csproj|solutionrelative:studentmanagementbackend\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F2FF74-B3E8-4BF3-AC06-5C4BAB36D6F6}|StudentmanagementBackend\\StudentmanagementBackend.csproj|g:\\student_management_project\\studentmanagementbackend\\studentmanagementbackend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F2FF74-B3E8-4BF3-AC06-5C4BAB36D6F6}|StudentmanagementBackend\\StudentmanagementBackend.csproj|solutionrelative:studentmanagementbackend\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F2FF74-B3E8-4BF3-AC06-5C4BAB36D6F6}|StudentmanagementBackend\\StudentmanagementBackend.csproj|g:\\student_management_project\\studentmanagementbackend\\studentmanagementbackend\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F2FF74-B3E8-4BF3-AC06-5C4BAB36D6F6}|StudentmanagementBackend\\StudentmanagementBackend.csproj|solutionrelative:studentmanagementbackend\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F2FF74-B3E8-4BF3-AC06-5C4BAB36D6F6}|StudentmanagementBackend\\StudentmanagementBackend.csproj|g:\\student_management_project\\studentmanagementbackend\\studentmanagementbackend\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F2FF74-B3E8-4BF3-AC06-5C4BAB36D6F6}|StudentmanagementBackend\\StudentmanagementBackend.csproj|solutionrelative:studentmanagementbackend\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F2FF74-B3E8-4BF3-AC06-5C4BAB36D6F6}|StudentmanagementBackend\\StudentmanagementBackend.csproj|g:\\student_management_project\\studentmanagementbackend\\studentmanagementbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F2FF74-B3E8-4BF3-AC06-5C4BAB36D6F6}|StudentmanagementBackend\\StudentmanagementBackend.csproj|solutionrelative:studentmanagementbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F2FF74-B3E8-4BF3-AC06-5C4BAB36D6F6}|StudentmanagementBackend\\StudentmanagementBackend.csproj|g:\\student_management_project\\studentmanagementbackend\\studentmanagementbackend\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F2FF74-B3E8-4BF3-AC06-5C4BAB36D6F6}|StudentmanagementBackend\\StudentmanagementBackend.csproj|solutionrelative:studentmanagementbackend\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\student_management_project\\StudentmanagementBackend\\StudentmanagementBackend\\Migrations\\20240330133541_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentmanagementBackend\\Migrations\\20240330133541_Initial Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F2FF74-B3E8-4BF3-AC06-5C4BAB36D6F6}|StudentmanagementBackend\\StudentmanagementBackend.csproj|g:\\student_management_project\\studentmanagementbackend\\studentmanagementbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60F2FF74-B3E8-4BF3-AC06-5C4BAB36D6F6}|StudentmanagementBackend\\StudentmanagementBackend.csproj|solutionrelative:studentmanagementbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "G:\\student_management_project\\StudentmanagementBackend\\StudentmanagementBackend\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "StudentmanagementBackend\\Controllers\\LoginController.cs",
+              "ToolTip": "G:\\student_management_project\\StudentmanagementBackend\\StudentmanagementBackend\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "StudentmanagementBackend\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABoAAADAYmZmZmYowCUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T13:21:29.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "G:\\student_management_project\\StudentmanagementBackend\\StudentmanagementBackend\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "StudentmanagementBackend\\Models\\Login.cs",
+              "ToolTip": "G:\\student_management_project\\StudentmanagementBackend\\StudentmanagementBackend\\Models\\Login.cs",
+              "RelativeToolTip": "StudentmanagementBackend\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T13:18:46.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cs",
+              "DocumentMoniker": "G:\\student_management_project\\StudentmanagementBackend\\StudentmanagementBackend\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "StudentmanagementBackend\\Models\\Register.cs",
+              "ToolTip": "G:\\student_management_project\\StudentmanagementBackend\\StudentmanagementBackend\\Models\\Register.cs",
+              "RelativeToolTip": "StudentmanagementBackend\\Models\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T13:45:27.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240330133541_Initial Migration.cs",
+              "DocumentMoniker": "G:\\student_management_project\\StudentmanagementBackend\\StudentmanagementBackend\\Migrations\\20240330133541_Initial Migration.cs",
+              "RelativeDocumentMoniker": "StudentmanagementBackend\\Migrations\\20240330133541_Initial Migration.cs",
+              "ToolTip": "G:\\student_management_project\\StudentmanagementBackend\\StudentmanagementBackend\\Migrations\\20240330133541_Initial Migration.cs",
+              "RelativeToolTip": "StudentmanagementBackend\\Migrations\\20240330133541_Initial Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T13:35:41.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "G:\\student_management_project\\StudentmanagementBackend\\StudentmanagementBackend\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentmanagementBackend\\Models\\Student.cs",
+              "ToolTip": "G:\\student_management_project\\StudentmanagementBackend\\StudentmanagementBackend\\Models\\Student.cs",
+              "RelativeToolTip": "StudentmanagementBackend\\Models\\Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T02:54:55.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\student_management_project\\StudentmanagementBackend\\StudentmanagementBackend\\Program.cs",
+              "RelativeDocumentMoniker": "StudentmanagementBackend\\Program.cs",
+              "ToolTip": "G:\\student_management_project\\StudentmanagementBackend\\StudentmanagementBackend\\Program.cs",
+              "RelativeToolTip": "StudentmanagementBackend\\Program.cs",
+              "ViewState": "AQIAABsAAAAAlpmZmZkBwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T17:17:16.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "G:\\student_management_project\\StudentmanagementBackend\\StudentmanagementBackend\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentmanagementBackend\\Controllers\\StudentController.cs",
+              "ToolTip": "G:\\student_management_project\\StudentmanagementBackend\\StudentmanagementBackend\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentmanagementBackend\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAADYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T09:42:14.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "G:\\student_management_project\\StudentmanagementBackend\\StudentmanagementBackend\\Db\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentmanagementBackend\\Db\\AppDbContext.cs",
+              "ToolTip": "G:\\student_management_project\\StudentmanagementBackend\\StudentmanagementBackend\\Db\\AppDbContext.cs",
+              "RelativeToolTip": "StudentmanagementBackend\\Db\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T17:04:29.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Response.cs",
+              "DocumentMoniker": "G:\\student_management_project\\StudentmanagementBackend\\StudentmanagementBackend\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "StudentmanagementBackend\\Models\\Response.cs",
+              "ToolTip": "G:\\student_management_project\\StudentmanagementBackend\\StudentmanagementBackend\\Models\\Response.cs",
+              "RelativeToolTip": "StudentmanagementBackend\\Models\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T13:47:32.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\student_management_project\\StudentmanagementBackend\\StudentmanagementBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentmanagementBackend\\appsettings.json",
+              "ToolTip": "G:\\student_management_project\\StudentmanagementBackend\\StudentmanagementBackend\\appsettings.json",
+              "RelativeToolTip": "StudentmanagementBackend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T16:59:40.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
